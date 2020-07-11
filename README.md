@@ -20,3 +20,9 @@
 	以后可以直接在本页面下载该文件到你的仓库，每次修改完，点击执行bat文件同步到Github
 	
 	也可以在ide中进行同步，下面会介绍
+	
+7.idea中进行Git操作
+
+	可以使用syn.bat进行同步，也可以使用IDEA进行操作：使用VCS下的commit提交至本地仓库，使用Git->push更新到Github远程仓库。
+	
+	不是idea操作的文件，就不会被提交至Github，仍需使用syn.bat进行同步
