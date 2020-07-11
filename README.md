@@ -11,7 +11,9 @@
 	
 	.ssh文件夹下id_rsa.pub复制，创建密匙
 	
-5.cmd——>要克隆下载的文件夹 git clone SSH密匙。
+5.cmd——> 要克隆下载的文件夹> git clone SSH密匙
+
+	将远程仓库Github上的内容clone到本地
 
 	这步有问题，多试几次
 
