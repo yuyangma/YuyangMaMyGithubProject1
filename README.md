@@ -9,7 +9,9 @@
 
 	通过Git Bash $ssh-keygen –t rsa –C '邮箱地址'
 	
-	.ssh文件夹下id_rsa.pub复制，创建密匙
+	.ssh文件夹下id_rsa.pub（公钥）复制到Github上，创建密匙。
+	
+	id_rsa是私钥，留在本地
 	
 5.cmd——> 要克隆下载的文件夹> git clone SSH密匙
 
